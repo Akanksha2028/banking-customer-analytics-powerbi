@@ -275,7 +275,7 @@ The documented datasets can be treated as reusable data products with defined sc
 These are documented as concepts and design considerations, not as production implementations.
 
 ## Project Structure
-
+```text
 Banking_Data_Integration_Analytics/
 │
 ├── Raw_Data/
@@ -307,6 +307,17 @@ Banking_Data_Integration_Analytics/
 **ScreenShotos**
 **1. Overview Dashboard**
 <img width="1377" height="770" alt="image" src="https://github.com/user-attachments/assets/abf2f791-cbd9-433c-8b18-3173a5db250f" />
+**2. Customer Analysis Dashboard**
+<img width="1372" height="771" alt="image" src="https://github.com/user-attachments/assets/a793b185-8cd9-4057-9db7-fa567cf6dc6a" />
+**3.Loan Analysis Dashboard**
+<img width="1372" height="767" alt="image" src="https://github.com/user-attachments/assets/98f3bc95-9d82-4dc5-94cd-e7ec2b035c56" />
+**4. Transaction Analysis Dashboard**
+<img width="1372" height="772" alt="image" src="https://github.com/user-attachments/assets/b14c4adc-5686-4b13-984e-21300ba3ccef" />
+**5. Branch Analysis Dashboard**
+<img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/91bbc2b7-a264-43bb-9a7a-08820bde8aa5" />
+**6. Data Quality Analysis Dashboard**
+<img width="1375" height="772" alt="image" src="https://github.com/user-attachments/assets/08efa9f2-354c-401e-83d0-19dbca3a5768" />
+
 
 
 ## Key Learning Outcomes
