@@ -275,6 +275,7 @@ The documented datasets can be treated as reusable data products with defined sc
 These are documented as concepts and design considerations, not as production implementations.
 
 ## Project Structure
+```
 Banking_Data_Integration_Analytics/
 │
 ├── Raw_Data/
@@ -302,7 +303,7 @@ Banking_Data_Integration_Analytics/
 │   └── 06_data_quality_dashboard.png
 │
 └── README.md
-
+```
 **ScreenShotos**
 **1. Overview Dashboard**
 <img width="1377" height="770" alt="image" src="https://github.com/user-attachments/assets/abf2f791-cbd9-433c-8b18-3173a5db250f" />
