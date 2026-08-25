@@ -276,27 +276,38 @@ These are documented as concepts and design considerations, not as production im
 
 ## Project Structure
 
-```text
 Banking_Data_Integration_Analytics/
-|
-+-- Raw_Data/
-|
-+-- Cleaned_Data/
-|
-+-- Target_Data/
-|
-+-- Documentation/
-|   +-- Data_Metadata.xlsx
-|   +-- Data_Quality_Findings.xlsx
-|   +-- Source_to_Target_Mapping.xlsx
-|   +-- Data_Lineage.xlsx
-|   +-- Target_Data_Model.xlsx
-|   +-- ETL_Reconciliation.xlsx
-|
-+-- Jupyter_Notebook/
-|
-+-- README.md
-```
+│
+├── Raw_Data/
+│
+├── Cleaned_Data/
+│
+├── Target_Data/
+│
+├── Documentation/
+│   ├── Data_Metadata.xlsx
+│   ├── Data_Quality_Findings.xlsx
+│   ├── Source_to_Target_Mapping.xlsx
+│   ├── Data_Lineage.xlsx
+│   ├── Target_Data_Model.xlsx
+│   └── ETL_Reconciliation.xlsx
+│
+├── Jupyter_Notebook/
+│
+├── screenshots/
+│   ├── 01_overview_dashboard.png
+│   ├── 02_customer_analysis_dashboard.png
+│   ├── 03_loan_analysis_dashboard.png
+│   ├── 04_transaction_analysis_dashboard.png
+│   ├── 05_branch_analysis_dashboard.png
+│   └── 06_data_quality_dashboard.png
+│
+└── README.md
+
+**ScreenShotos**
+**1. Overview Dashboard**
+<img width="1377" height="770" alt="image" src="https://github.com/user-attachments/assets/abf2f791-cbd9-433c-8b18-3173a5db250f" />
+
 
 ## Key Learning Outcomes
 
