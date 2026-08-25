@@ -275,7 +275,6 @@ The documented datasets can be treated as reusable data products with defined sc
 These are documented as concepts and design considerations, not as production implementations.
 
 ## Project Structure
-```text
 Banking_Data_Integration_Analytics/
 │
 ├── Raw_Data/
