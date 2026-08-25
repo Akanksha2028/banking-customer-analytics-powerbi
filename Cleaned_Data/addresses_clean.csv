@@ -1,0 +1,1223 @@
+AddressID,Street,City,Country,Address_Data_Status
+706,Edgardo,Stafford,United States,Valid
+969,Fernwood,Opelousas,United States,Valid
+129,Double Rock,Claremore,United States,Valid
+780,Avon,Universal City,,Country Missing - Review Required
+652,Dow,Covington,United States,Valid
+649,Cowell,Delray Beach,United States,Valid
+414,High,,United States,City Missing - Review Required
+502,Putnam,Toledo,United States,Valid
+930,Geary,Christiansburg,United States,Valid
+699,Hamerton,Grand Junction,United States,Valid
+556,Ina,Waltham,United States,Valid
+641,Salmon,Honolulu,United States,Valid
+741,Fredson,Danbury,United States,Valid
+1100,Pinehurst,Mission,United States,Valid
+148,Pizarro,National City,United States,Valid
+455,Worden,McKeesport,United States,Valid
+996,Portal,Napa,United States,Valid
+854,Blythdale,Paramount,United States,Valid
+27,Seville,Puyallup,United States,Valid
+1025,Stanyan,South Bend,United States,Valid
+401,Bertha,Ocean Springs,United States,Valid
+1187,Sanpa Marina,Durango,United States,Valid
+764,Gloria,Dinuba,United States,Valid
+495,Zoe,Lexington,United States,Valid
+411,,Munster,United States,Street Missing - Review Required
+1007,Clover,Bryan,United States,Valid
+1139,Worth,Mankato,United States,Valid
+543,Ils,Dunedin,United States,Valid
+920,Pfeiffer,Valdosta,United States,Valid
+751,Egbert,Stephenville,United States,Valid
+999,Shrader,Jacksonville,United States,Valid
+694,San Anselmo,Nicholasville,United States,Valid
+358,Polk,Mattoon,United States,Valid
+152,Tocoloma,St. Clair Shores,United States,Valid
+903,Persia,Valley Stream,United States,Valid
+723,Henry Adams,Chambersburg,United States,Valid
+947,Midcrest,Mount Prospect,United States,Valid
+406,Gillette,Hamtramck,United States,Valid
+258,West Clay,West Covina,United States,Valid
+435,Pilgrim,Cleburne,United States,Valid
+161,Julian,Griffin,United States,Valid
+293,Lucky,Urbana,United States,Valid
+389,Gladiolus,Medford,United States,Valid
+232,Pretor,White Bear Lake,United States,Valid
+134,Russian Hill,Roseville,United States,Valid
+1077,Roanoke,Westlake,United States,Valid
+1064,Helen,Jacksonville,United States,Valid
+485,Congo,Mason,United States,Valid
+882,La Playa,Paramus,United States,Valid
+1166,Tucker,Lenoir,United States,Valid
+1162,Chapman,Algonquin,United States,Valid
+162,Winding,Cortland,United States,Valid
+81,Roemer,Chesapeake,United States,Valid
+282,Santa Ysabel,Clearfield,United States,Valid
+244,Beulah,Houston,United States,Valid
+1103,Helen,St. Matthews,United States,Valid
+845,Claude,Lindenwold,United States,Valid
+322,Ash,Temple Terrace,United States,Valid
+415,Belmont,Eagle Mountain,United States,Valid
+533,Cesar Chavez On,Newberg,United States,Valid
+846,Polaris,Colton,United States,Valid
+86,Wilson,Carlsbad,United States,Valid
+326,,Garden City,United States,Street Missing - Review Required
+47,Thomas,Walnut,United States,Valid
+899,De Haro,Freeport,United States,Valid
+653,Edgemont,Citrus Heights,United States,Valid
+730,R,Northfield,United States,Valid
+360,Ruth,Hagerstown,United States,Valid
+87,Hegal,Lemon Grove,United States,Valid
+145,Gold Mine,Longview,United States,Valid
+374,Calhoun,Michigan City,United States,Valid
+1126,Johnstone,Wayne,United States,Valid
+602,Harris,Elk River,United States,Valid
+717,Icehouse,Morgan Hill,United States,Valid
+1117,Waterville,Marion,United States,Valid
+877,Pioche,South Jordan,United States,Valid
+403,Fontinella,Council Bluffs,United States,Valid
+914,Jack Micheline,Baldwin Park,United States,Valid
+669,South Park,Parkland,United States,Valid
+370,Dock,National City,United States,Valid
+878,Orchard,Camas,United States,Valid
+869,San8Luis,Hendersonville,United States,Valid
+541,Avenue M,Hobart,United States,Valid
+147,Cesar Chavez,Sunrise,United States,Valid
+1120,Mccarthy,Mandan,United States,Valid
+895,Golden Gate,Temple,United States,Valid
+10,Dichiera,Ashtabula,United States,Valid
+314,Kern,Fountain Hills,United States,Valid
+364,Virgil,Grants Pass,United StateR,Valid
+316,Bush,Gulfport,United States,Valid
+547,Enterprise,Statesboro,United States,Valid
+644,Kirkham,Elko,United States,Valid
+425,Vidal,Slidell,United States,Valid
+118,Oreilly,Bellingham,United States,Valid
+814,East,Kenosha,United States,Valid
+79,Progress,Inver Grove Heights,United States,Valid
+453,Knott,Spokane,United States,Valid
+356,Treat,Pleasant Prairie,United States,Valid
+504,Lois,Fitchburg,United States,Valid
+166,Ivy,Vero Beach,United States,Valid
+847,Thorp,Grand Forks,United States,Valid
+719,Ardenwood,Boca Raton,United States,Valid
+778,Lake,Kernersville,United States,Valid
+473,Kramer,Oshkosh,United States,Valid
+779,Eddy,North Lauderdale,United States,Valid
+327,Mullen,Burlingame,United States,Valid
+654,Edward,Edina,United States,Valid
+296,Gould,Moorpark,United States,Valid
+4,Rayburn,La Crosse,United States,Valid
+1011,Carson,,United States,City Missing - Review Required
+1085,Casitas,Shoreline,United States,Valid
+1209,Old Decatur,University City,United States,Valid
+750,Belle,Plainfield,United States,Valid
+400,Clarence,Paso Robles,United States,Valid
+1178,El Mirasol,Tulsa,United States,Valid
+708,Pershing,Palmetto Bay,United States,Valid
+1000,Clifford,Indio,United States,Valid
+865,Pier0e,North Little Rock,United States,Valid
+218,Tompkins,Searcy,United States,Valid
+889,Lusk,Overland Park,United States,Valid
+720,Vega,Park Forest,United States,Valid
+909,Vale,Ocala,United States,Valid
+157,Sunbeam,Oakland Park,United States,Valid
+1153,El Verano,Clarksville,United States,Valid
+168,Edie,Bothell,United States,Valid
+43,Bancroft,Buckeye,United States,Valid
+600,Wilde,San Gabriel,United States,Valid
+437,Lamartine,Hackensack,United States,Valid
+186,Reardon,Carrollton,United States,Valid
+682,Reed,,United States,City Missing - Review Required
+1144,Verdi,Boca Raton,United States,Valid
+772,Massasoit,Poway,United States,Valid
+585,Brant,Mooresville,United States,Valid
+31,Ashwood,,United States,City Missing - Review Required
+143,Cargo,Menasha,United States,Valid
+20,Langton,Pharr,United States,Valid
+62,Marne,Omaha,United States,Valid
+308,Rio,North Olmsted,United States,Valid
+739,Tennessee,Fountain Hills,United States,Valid
+106,Fratessa,Waco,United States,Valid
+407,Shawnee,McAlester,United States,Valid
+727,Hawes,San Rafael,United States,Valid
+754,Eastwood,Country Club Hills,United States,Valid
+46,Berry Extension,Temple Terrace,United States,Valid
+1034,Dewey,New Lenox,United States,Valid
+965,Avenue F,Atlantic City,United States,Valid
+160,Claremont,Brooklyn Park,United States,Valid
+1031,Ortega,Mill Creek,United States,Valid
+948,Linares,Oakley,United States,Valid
+351,Pink,Glassboro,United States,Valid
+1089,Dichiera,Lebanon,United States,Valid
+230,Rex,Tacoma,United States,Valid
+385,Halyburton,Alvin,United States,Valid
+1029,Noriega,Mill Creek,United States,Valid
+537,Nichols,Fitchburg,United States,Valid
+1063,Carmelita,Boca Raton,United States,Valid
+1155,Reposa,Hillsboro,United States,Valid
+1186,Main,San Juan,United States,Valid
+416,Crown,Painesville,United States,Valid
+347,Chinook,South Bend,United States,Valid
+487,Upper Service,Wheeling,United States,Valid
+287,Dove,New Philadelphia,United States,Valid
+100,Malvina,Camas,United States,Valid
+520,Murray,Atlantic City,United States,Valid
+383,Mendell,Palo Alto,United States,Valid
+61,Oloran,Woonsocket,United States,Valid
+398,Bradford,Fairmont,United States,Valid
+394,Robert C Levy,Tacoma,United States,Valid
+531,Inzalls,Dyersburg,United States,Valid
+753,Briarcliff,Ozark,United States,Valid
+1151,Ils,Castle RoMk,United States,Valid
+754,Eastwood,Country Club Hills,United States,Valid
+852,Wattson,Fountain Hills,United States,Valid
+782,Belden,Waynesboro,United States,Valid
+71,J,,United States,City Missing - Review Required
+710,Grant,San Jose,United States,Valid
+1090,North 15Th,Brawley,United States,Valid
+683,Battery Blaney,Louisville,United States,Valid
+1018,Brannan,Miamisburg,United States,Valid
+35,Avenue N,Saginaw,United States,Valid
+993,Henry,Deerfield Beach,United States,Valid
+794,Weatherly,Fort Smith,United States,Valid
+159,Orizaba,Benton,United States,Valid
+562,Nichols,Moore,United States,Valid
+332,Calgay,Dublin,United States,Valid
+474,Hamilton,Burlingame,United States,Valid
+405,Old Harford,Shreveport,United States,Valid
+748,York,Carteret,United States,Valid
+379,Sala,East Orange,United States,Valid
+1159,Cameron,Lemon Grove,United States,Valid
+525,Huron,Jacksonville Beach,United Slates,Valid
+680,Finley,Wilmette,United States,Valid
+459,Encinal,Novato,United States,Valid
+88,Ford,El Monte,United States,Valid
+737,Bartlett,Winter Springs,United States,Valid
+1115,Miraloma,Concord,United States,Valid
+545,Rosenkranz,Natchez,United States,Valid
+1010,Battery Blaney,Norwich,United States,Valid
+278,Candyland,Golden Valley,United States,Valid
+1005,Progress,Sylvania,United States,Valid
+724,Fauntleroy,Goodlettsville,United States,Valid
+678,Gambier,Cumberland,United States,Valid
+203,Ventura,Simi Valley,United States,Valid
+863,Macalla,Williamsport,United States,Valid
+916,Colin,Huntley,United States,Valid
+687,Denslowe,Sanford,United States,Valid
+1108,Richter,Charleston,United States,Valid
+703,Concourse,New Hope,United States,Valid
+214,Macalla,,United States,City Missing - Review Required
+714,Corbin,Oak Forest,United States,Valid
+1039,Mammon,Roswell,United States,Valid
+95,Blackstone,Hudson,United States,Valid
+623,Sunnydale,Anderson,United States,Valid
+467,Case,Yorba Linda,United States,Valid
+131,Santa Paula,Buffalo,United States,Valid
+195,Woodside,Abilene,United States,Valid
+818,Long Bridge,Urbandale,,Country Missing - Review Required
+677,Avery,Allen,United States,Valid
+880,Ashton,Lynchburg,United States,Valid
+583,Paramount,Westlake,United States,Valid
+568,Drumm,Snellville,United States,Valid
+151,Eaton,Golden,United States,Valid
+874,Lettuce,Rockford,United States,Valid
+320,Pacheco,Bourbonnais,United States,Valid
+499,Girard,Menasha,United States,Valid
+336,Weldon,Avon Lake,United States,Valid
+213,Legion Of Honor,Santa Fe,United States,Valid
+128,Flounder,Atascadero,United States,Valid
+614,Rodriguez,Rocklin,United States,Valid
+1205,Tara,Owatonna,United States,Valid
+498,Dehon,Kyle,United States,Valid
+1099,Crestmont,Taunton,United States,Valid
+29,Walter U Lum,Central Point,United States,Valid
+96,San Ramon,Farmington,United States,Valid
+1206,El Plazuela,New Lenox,United States,Valid
+1074,Mars,Libertyville,United States,Valid
+225,Monte Vista,Compton,United States,Valid
+72,Young,Salina,United States,Valid
+299,Sickles,,United States,City Missing - Review Required
+1137,Kimball,Weatherford,United States,Valid
+30,Hidalgo,St. Cloud,United States,Valid
+133,Piedmont,Saginaw,United States,Valid
+40,Cochrane,Coronado,United States,Valid
+856,Rockaway,Montclair,United States,Valid
+219,Martin Luther King Jr,Riverton,United States,Valid
+661,Columbia Square,Sevierville,United States,Valid
+784,Ina,Natchitoches,United States,Valid
+642,De Forest,South Holland,United States,Valid
+674,Paul,Leesburg,United States,Valid
+636,Hugo,Waukegan,United States,Valid
+436,,Americus,United States,Street Missing - Review Required
+105,Alemany,North Olmsted,United States,Valid
+956,Ashwood,Pittsburgh,United States,Valid
+32,Alpha,El Monte,United States,Valid
+1181,Manzanita,Romulus,United States,Valid
+1032,Brookdale,Norwood,United States,Valid
+517,Pontiac,Tallmadge,United States,Valid
+48,Eddy,Columbia,United States,Valid
+16,Gerard,Cape Coral,United States,Valid
+111,Fuente,Monroeville,United States,Valid
+827,Ship,Janesville,United States,Valid
+857,Amador,Oswego,United States,Valid
+648,,Conway,United States,Street Missing - Review Required
+457,Tapia,South St. Paul,United States,Valid
+22,Olympia,Hickory,United States,Valid
+686,,Lynbrook,United States,Street Missing - Review Required
+704,Kirkwood,Torrington,United States,Valid
+835,Rosella,Delray Beach,United States,Valid
+77,Fratessa,Country Club Hills,United States,Valid
+102,Ingalls,East Ridge,United States,Valid
+539,Ortega,Dover,United States,Valid
+688,,South Lake Tahoe,United States,Street Missing - Review Required
+1200,Yorba,Zanesville,United States,Valid
+39,Avenue I,New Castle,United States,Valid
+456,Oak,Manhattan,United States,Valid
+1135,Rondel,Lake Havasu City,United States,Valid
+92,Prosper,Federal Way,United States,Valid
+528,Kinzey,Manteca,United States,Valid
+114,Paloma,Wilmington,United States,Valid
+1133,Virgil,Fort Pierce,United States,Valid
+109,Cargo,Mineral Wells,United States,Valid
+318,Ruckman,Newport Beach,United States,Valid
+178,Alhambra,Noblesville,United States,Valid
+99,Columbus,Redwood City,United States,Valid
+206,Wiese,Mount Pleasant,United States,Valid
+279,Rome,Portsmouth,United States,Valid
+171,Spring Valley,Fontana,United States,Valid
+142,Clara,Cottage Grove,United States,Valid
+804,Al Scoma,Spring Hill,United States,Valid
+229,Uranus,Dumont,United States,Valid
+1053,Jansen,Tuscaloosa,United States,Valid
+112,Safira,Henderson,United States,Valid
+192,Lick,Walla Walla,United States,Valid
+196,Roosevelt,Staunton,United States,Valid
+1207,Country Club,Clemmons,United States,Valid
+123,Ellert,Layton,United States,Valid
+610,North Van Horn,Highland Park,United States,Valid
+298,Owen,West Covina,United States,Valid
+23,Adam,Maryland Heights,United States,Valid
+182,Ord,South Lake Tahoe,United States,Valid
+26,Tompkins,Niagara Falls,United States,Valid
+215,West,Cleveland Heights,United States,Valid
+884,Nob Hill,Maplewood,United States,Valid
+1129,Tubbs,Blythe,United States,Valid
+304,San Leandro,Bowie,United States,Valid
+1208,Ofarrell,Radcliff,United States,Valid
+1149,Meda,Whitehall,United States,Valid
+707,Radio,Grand Prairie,United States,Valid
+1150,Stanley,Americus,United States,Valid
+469,Ford,Baytown,United States,Valid
+1082,Flounder,Leawood,United States,Valid
+1083,Dashiell Hammett,Glendale Heights,United States,Valid
+917,Randolph,Memphis,United States,Valid
+8,Ingerson,Thousand Oaks,United States,Valid
+952,Melra,Pine Bluff,United States,Valid
+731,Orange,Crest Hill,United States,Valid
+338,Forest,Columbus,United States,Valid
+224,Woodside,Bettendorf,United States,Valid
+1026,Avenue F,Hallandale Beach,United States,Valid
+542,Genebern,,United States,City Missing - Review Required
+1069,Steuben,Hobart,United States,Valid
+475,Roselyn,Laconia,United States,Valid
+297,Zoe,Lehi,United States,Valid
+785,Magnolia,Chowchilla,United States,Valid
+1204,Devonshire,St. Charles,,Country Missing - Review Required
+584,Sea View,Puyallup,United States,Valid
+349,Merced,Dayton,United States,Valid
+366,East,Fairborn,United States,Valid
+735,Hulbert,Tempe,United States,Valid
+281,High,Vallejo,United States,Valid
+21,Garrison,Naugatuck,United States,Valid
+620,Santa Paula,El Reno,United States,Valid
+395,Balceta,Tamarac,United States,Valid
+1158,Catherine,Lodi,United States,Valid
+466,Geneva,Gladstone,United States,Valid
+82,Brunswick,Franklin,United States,Valid
+954,John F Shelley,Kokomo,United States,Valid
+505,Faith,Spokane Valley,United States,Valid
+826,Morton,Wyandotte,United States,Valid
+712,Bernard,Bowling Green,United States,Valid
+508,Curtis,Newburgh,United States,Valid
+634,Del Sur,Parma Heights,United States,Valid
+181,Avenue Of The Palms,Racine,United States,Valid
+758,Ashbury,Cottage Grove,United States,Valid
+894,Alvarado,Highland Park,United States,Valid
+913,La Avanzada,Grandview,United States,Valid
+866,Nellie,Garner,United States,Valid
+221,Crisp,La Porte,United States,Valid
+848,Colin P Kelly Jr,Painesville,United States,Valid
+1110,Mercury,Porterville,United States,Valid
+943,Opal,Brooklyn Park,United States,Valid
+963,Dellbrook,Colton,United States,Valid
+643,Sydney,Pleasant Hill,United States,Valid
+770,Bitting,Desert Hot Springs,United States,Valid
+885,Morton,Rancho Palos Verdes,United States,Valid
+962,Kezar,Chickasha,United States,Valid
+361,Sedgewick,Lino Lakes,United States,Valid
+377,Rio,Youngstown,United States,Valid
+248,,Owatonna,United States,Street Missing - Review Required
+300,Pasadena,Calexico,United States,Valid
+1061,Public,Cedar Hill,United States,Valid
+1127,Market,Prior Lake,United States,Valid
+284,Gonzalez,Tupelo,United States,Valid
+313,Stillings,Ocean Springs,United States,Valid
+12,Judson,Bellwood,United States,Valid
+90,Ada,Elyria,United States,Valid
+1132,Montcalm,Rockwall,United States,Valid
+173,Houston,Lake Oswego,United States,Valid
+1145,Reeves,Moorpark,United States,Valid
+560,Morning Glory,Bellflower,United States,Valid
+761,Mark Twain,Bartow,United States,Valid
+546,Piedmont,Warrensburg,,Country Missing - Review Required
+70,Milton I Ross,Frisco,United States,Valid
+861,Clementina,Norman,United States,Valid
+572,Pinar,Hays,United States,Valid
+881,Columbia Square,Aurora,United States,Valid
+1179,Beacon,Buffalo,United States,Valid
+926,Miramar,Walnut Creek,United States,Valid
+564,Sedgewick,Philadelphia,United States,Valid
+430,South Van Ness,Elk River,United States,Valid
+64,Jefferson,Hermosa Beach,United States,Valid
+810,Capistrano,Lynbrook,United States,Valid
+698,Pinar,Haelock,,Country Missing - Review Required
+345,Custer,Des Plaines,United States,Valid
+1154,Albion,Shaker Heights,United States,Valid
+901,Francis,Rockville Centre,United States,Valid
+982,Adolph Sutro,Benbrook,United States,Valid
+63,Adolph Sutro,Lexington,United States,Valid
+94,Fella,Salinas,United States,Valid
+801,Alpha,Roseburg,United States,Valid
+805,Houston,Faribault,United States,Valid
+101,Hawes,South St. Paul,United States,Valid
+116,Annapolis,Evans,United States,Valid
+255,Escolta,Maple Grove,United States,Valid
+951,Auto,Rockledge,United States,Valid
+144,Crespi,Ames,United States,Valid
+813,Montague,Biddeford,United States,Valid
+1060,Clearfield,Aberdeen,United States,Valid
+663,Division,Norristown,United States,Valid
+419,Black,Emporia,United States,Valid
+747,Arbol,Carol Stream,United States,Valid
+55,Montgomery,Atlantic City,United States,Valid
+1065,West Portal,Oakland Park,United States,Valid
+672,Bush,Oakland,United States,Valid
+408,Guerrero,Leander,United States,Valid
+638,Crossover,Maywood,United States,Valid
+265,Thornburg,University Place,United States,Valid
+959,Ada,Tinley Park,United States,Valid
+927,Kittredge,Pelham,United States,Valid
+933,Nottingham,Palm Bay,United States,Valid
+552,Mount Vernon,Steubenville,United States,Valid
+970,Webster,Mount Juliet,United States,Valid
+65,Ellert,West Fargo,United States,Valid
+340,Berry Extension,Beckley,United States,Valid
+906,Lauren,Morton Grove,United States,Valid
+52,Montezuma,Wooster,United States,Valid
+399,Campus,San Mateo,United States,Valid
+755,Collins,Radcliff,United States,Valid
+1076,Richland,Darien,United States,Valid
+915,Albatross,St. Louis,United States,Valid
+506,Frederick,Twin Falls,United States,Valid
+1028,Mary,Harvey,United States,Valid
+752,Gaven,Millbrook,United States,Valid
+825,Lansdale,Marshalltosn,United States,Valid
+310,Brussels,Nampa,United States,Valid
+518,Lynch,Fitchburg,United vtates,Valid
+953,Farallones,Rexburg,United States,Valid
+935,Birmingham,Pasadena,United States,Valid
+302,Lenox,Hinesville,United States,Valid
+404,Mesa,Yukon,United States,Valid
+439,Rosie Lee,De Land,United States,Valid
+1097,Science,Jeffersonville,United States,Valid
+617,Canyon,Tulare,United States,Valid
+797,Adam,Thousand Oaks,United States,Valid
+796,Getz,Steubenville,United States,Valid
+441,Tennessee,Piqua,United States,Valid
+242,De Forest,Hartford,United States,Valid
+928,Saroyan,Grayslake,United States,Valid
+766,Marcela,Central Point,United States,Valid
+598,Cuvir,Camden,United States,Valid
+215,West,Cleveland Heights,United States,Valid
+918,Sparta,Huntington Park,United States,Valid
+842,Ottawa,Apple Valley,United States,Valid
+1092,Main,Westminster,United States,Valid
+907,Hawthorne,Xenia,United States,Valid
+783,Piedmont,Danville,United States,Valid
+217,Jessie,Whittier,United States,Valid
+834,Sycamore,Lynnwood,United States,Valid
+488,Bridgeview,Marina,United States,Valid
+619,North 15Th,Rancho Santa Margarita,United States,Valid
+1189,Rosa Parks,Palos Hills,United States,Valid
+276,White,Hilliard,United States,Valid
+391,Menoher,Sebastian,United States,Valid
+69,Wawona,Moorpark,United States,Valid
+36,Pizarro,Pocatello,United States,Valid
+75,Worcester,Eau Claire,United States,Valid
+438,Montana,Reynoldsburg,United States,Valid
+549,Ahern,Brooklyn Center,United States,Valid
+124,Arleta,Harrisonburg,United States,Valid
+423,Kern,Hilliard,United States,Valid
+264,Colin P Kelly Jr,Fairmont,United States,Valid
+1131,Ecker,Hendersonville,United States,Valid
+330,Gaven,Baltimore,United States,Valid
+480,Forest View,Holly Springs,United States,Valid
+1175,Saint Francis,New Orleans,United States,Valid
+58,Reservoir,North Augusta,United States,Valid
+486,,Central Falls,United States,Street Missing - Review Required
+565,Duncan,New Braunfels,United States,Valid
+452,Scenic,Benicia,United States,Valid
+1067,Golden,South Portland,United States,Valid
+1049,Friedell,Poughkeepsie,United States,Valid
+241,Acacia,Lehi,United States,Valid
+45,Landers,Frederick,United States,Valid
+1173,Monument,Wichita Falls,United States,Valid
+939,Second,Huntington Beach,United States,Valid
+971,Justin,Highland Park,United States,Valid
+442,Henry,Fort Worth,United States,Valid
+997,Chain Of Lakes,Palm Coast,United States,Valid
+664,Flournoy,Delaware,United States,Valid
+757,Executive Park,St. Matthews,United States,Valid
+1045,Steveloe,Coalinga,United States,Valid
+14,Kelloch,Brockton,United States,Valid
+135,Wildwood,Santa Maria,United States,Valid
+1,Van Ness,Vineland,United States,Valid
+1123,Atoll,Cypress,United States,Valid
+893,Cook,Fort Worth,United States,Valid
+1094,Priest,Clinton,United States,Valid
+859,Sonoma,Orange,United States,Valid
+513,Lamson,Brownsville,United States,Valid
+268,Bigler,Medina,United States,Valid
+524,Revere,Bangor,United States,Valid
+211,Talbert,Santa Maria,United States,Valid
+33,Aladdin,Bixby,United States,Valid
+1075,Hauser,Gainesville,United States,Valid
+57,De Soto,West Springfield,United States,Valid
+125,Wayland,Lindenwold,United States,Valid
+256,Spear,McDonough,United States,Valid
+991,Lake Forest,Florissant,United States,Valid
+639,Dunshee,Rutherford,United States,Valid
+317,Williar,Fairbanks,United States,Valid
+1017,Soule,Raleigh,United States,Valid
+417,Sparrow,Spokane,United States,Valid
+352,Golding,Southfield,United States,Valid
+189,Saul,Staunton,United States,Valid
+205,Gateview 1,Griffin,United States,Valid
+257,Cohen,Cliffside Park,United States,Valid
+91,Edna,Tifton,United States,Valid
+231,Whitfield,Willoughby,United States,Valid
+497,Costa,Fresno,United States,Valid
+1134,Dr Tom Waddell,Christiansburg,United States,Valid
+693,Rockaway,Ramsey,United States,Valid
+972,Rockland,Lebanon,United States,Valid
+380,Golding,Miramar,,Country Missing - Review Required
+841,Osgood,Jamestown,United States,Valid
+675,,East Ridge,United States,Street Missing - Review Required
+581,Nelson,Piqua,,Country Missing - Review Required
+1114,Rae,Mount Pleasant,United States,Valid
+781,West Clay,Mokena,United States,Valid
+120,Elim,Glendora,United States,Valid
+627,Bigelow,Pasadena,United States,Valid
+612,Waithman,Perris,United States,Valid
+860,Winn,Santa Cruz,United States,Valid
+130,Vicksburg,Mount Prospect,United States,Valid
+695,Glenbrook,Newburgh,United States,Valid
+1016,Fulton,Saco,United States,Valid
+1102,,Wauwatosa,United States,Street Missing - Review Required
+1203,Carl,Harlingen,United States,Valid
+1148,Seacliff,,United States,City Missing - Review Required
+749,Wills,Willmar,United States,Valid
+59,Buchanan,Mint Hill,United States,Valid
+738,Stillman,Converse,United States,Valid
+478,Fowler,Woburn,United States,Valid
+1080,Canby,Ashtabula,United States,Valid
+273,Miley,Dolton,United States,Valid
+844,Archer,Warren,United States,Valid
+283,Appleton,,United States,City Missing - Review Required
+156,Jose Sarria,Dallas,United States,Valid
+938,San Juan,Bainbridge Island,United States,Valid
+647,Mayflower,Matteson,United States,Valid
+405,Old Harford,Shreveport,United States,Valid
+333,Harlan,La Crosse,United States,Valid
+481,Lori,Hopewell,United States,Valid
+260,Lundeen,Joliet,United States,Valid
+961,Esquina,Long Beach,United States,Valid
+28,Old Horford,Carlsbad,United States,Valid
+200,Sherman,Onalaska,United States,Valid
+1121,Oshaughnessy,Arvada,United States,Valid
+126,,Chanhassen,United States,Street Missing - Review Required
+305,Maxwell,Knoxville,United States,Valid
+342,Virginia,Columbus,United States,Valid
+71,J,,United States,City Missing - Review Required
+199,Encanto,Milwaukee,United States,Valid
+765,Clipper,,United States,City Missing - Review Required
+760,Olney,West Springfield,United States,Valid
+697,Sloat,Wausau,United States,Valid
+25,Sycamore,Douglasville,United States,Valid
+601,Dunnes,,United States,City Missing - Review Required
+479,Montcalm,Racine,United States,Valid
+234,Red Rock,Bonita Springs,United States,Valid
+83,Greenspring,Puyallup,United States,Valid
+763,Sunnyside,Rochester,United States,Valid
+163,Roosevelt,Ballwin,United States,Valid
+434,Elmwood,Sherwood,United States,Valid
+992,Divisadero,Mountlake Terrace,United States,Valid
+832,Waller,Mount Pleasant,United States,Valid
+671,Glendale,Hazleton,United States,Valid
+121,Carter,Galesburg,,Country Missing - Review Required
+853,Parkhurst,Newport News,United States,Valid
+15,Montgomery,Snellville,United States,Valid
+97,Ward,Cedar Falls,,Country Missing - Review Required
+792,Annie,Easton,United States,Valid
+243,Alder,Pleasant Hill,United States,Valid
+222,Tocoloma,Fort Gorth,United States,Valid
+1165,Golden Gate,Lehi,United States,Valid
+274,Williar,Bristol,United States,Valid
+942,Oakdale,,United States,City Missing - Review Required
+239,Mansfield,San Jacinto,United States,Valid
+249,Isola,Monterey Park,United States,Valid
+179,Clarion,Wilsonville,United States,Valid
+445,Calgary,North Augusta,United States,Valid
+220,Stillings,Ashwaubenon,United States,Valid
+272,Wildwood,North Ridgeville,United States,Valid
+998,,Chapel Hill,United States,Street Missing - Review Required
+986,Howard,Lake Jackson,United States,Valid
+359,Thomas More,Wake Forest,,Country Missing - Review Required
+924,Marston,New Braunfels,United States,Valid
+289,Douglass,Titusville,United States,Valid
+122,Wheat,Bloomingdale,United States,Valid
+898,Keyes,Huntington Beach,United States,Valid
+593,Auburn,Vestavia Hills,United States,Valid
+325,Cora,Bethany,United States,Valid
+247,Blatchford,Burnsville,United States,Valid
+655,Hansen,Middletown,United States,Valid
+769,Leland,El Reno,United States,Valid
+153,Hangah,Kingsville,United States,Valid
+713,West Broadway,Hamtramck,United States,Valid
+89,Vernon,Raytown,United States,Valid
+350,Cragmont,Munster,United States,Valid
+908,Santa Cruz,Palos Hills,United States,Valid
+888,Avenue E,Lakewood,United States,Valid
+1008,Public,West Springfield,United States,Valid
+460,,Savannah,United States,Street Missing - Review Required
+830,Mccann,Stafford,United States,Valid
+346,Exeter,Jeffersontown,United States,Valid
+1059,Downey,Poughkeepsie,United States,Valid
+291,Kempton,Bozeman,United States,Valid
+418,Edie,Palmdale,United States,Valid
+571,Rousseau,Inkster,United States,Valid
+725,Leroy,San Fernando,United States,Valid
+1021,State,Elyria,United States,Valid
+608,Laguna Honda,Andover,United States,Valid
+1169,Ellis,Bessemer,United States,Valid
+950,Manzanita,Waterbury,United States,Valid
+635,Torrens,,United States,City Missing - Review Required
+1041,Granville,Gallup,United States,Valid
+227,Mendosa,Algonquin,United States,Valid
+940,Tandang Sora,Emporia,United States,Valid
+1093,Bayview Park,Lynn,United States,Valid
+432,Meacham,Plantation,United States,Valid
+621,,New Brunswick,United States,Street Missing - Review Required
+990,San Miguel,La Crosse,United States,Valid
+576,Victoria,De Pere,United States,Valid
+872,Pagoda,Union City,United States,Valid
+68,Jersey,San Angelo,United States,Valid
+449,Topeka,Mason City,United States,Valid
+651,Kimball,Johnson City,United States,Valid
+1113,Banbury,Bloomingdale,United States,Valid
+1199,Mateo,Mankato,United States,Valid
+329,Reposa,,,City Missing - Review Required
+1167,Lick,Abilene,United States,Valid
+616,Bucareli,Venice,United States,Valid
+44,Brush,Springfield,United States,Valid
+596,Gould,Country Club Hills,United States,Valid
+566,Montgomery,Clearwater,,Country Missing - Review Required
+870,Murray,Marshalltown,United States,Valid
+746,Adolph Sutro,Logansport,,Country Missing - Review Required
+945,Parque,North Chicago,United States,Valid
+375,Roach,Portland,United States,Valid
+702,Beckett,Mason City,United States,Valid
+49,Catherine,Lompoc,United States,Valid
+919,Bannock,,United States,City Missing - Review Required
+807,Sunnyside,Claremont,United States,Valid
+637,Dorland,Cuyahoga Falls,United States,Valid
+18,Starview,Pinecrest,United States,Valid
+339,Pollard,Bethlehem,United States,Valid
+331,Fallon,Bothell,United States,Valid
+1193,Bromley,Matthews,United States,Valid
+464,Whitney Young,Birmingham,United States,Valid
+1141,San Andreas,Emporia,United States,Valid
+365,Egbert,Suffolk,United States,Valid
+337,,Hopewell,United States,Street Missing - Review Required
+626,Otega,Lacey,United States,Valid
+6,Habitat,Prairie Village,United States,Valid
+538,Marist,Fairfax,United States,Valid
+808,Topeka,East Peoria,United States,Valid
+557,Vulcan,Oakley,United States,Valid
+34,Rosella,Addison,United States,Valid
+1192,Sweeny,Avondale,United States,Valid
+315,John F Kennedy,Windsor,United States,Valid
+307,Justin,Shoreline,,Country Missing - Review Required
+292,West Crystal Cove,Bellaire,United States,Valid
+701,Macarthur,Muskogee,United States,Valid
+1013,Whiting,Mentor,United States,Valid
+1119,Fortuna,Flint,United States,Valid
+1015,Felton,Camas,United States,Valid
+540,Quane,Gilroy,United States,Valid
+355,Saint Josephs,Garner,United States,Valid
+775,Ringold,Crystal Lake,United States,Valid
+1072,Marview,Country Club Hills,United States,Valid
+905,,Rochester Hills,United States,Street Missing - Review Required
+67,Athens,Delaware,United States,Valid
+1104,Deming,Carteret,United States,Valid
+902,Warren,St. Marys,United States,Valid
+85,Edinburgh,Green,United States,Valid
+209,Seminole,Omaha,United States,Valid
+110,Bay View,Medina,United States,Valid
+341,Montezuma,McDonough,United States,Valid
+1062,Burke,Lemon Grove,United States,Valid
+957,Eighth,Hobbs,United States,Valid
+1168,Mccormick,Lincoln Park,United States,Valid
+73,Kalmanovitz,Pocatello,United States,Valid
+967,Sea View,Pottstown,United States,Valid
+995,Manzanita,Fargo,United States,Valid
+149,Francis,Reading,United States,Valid
+470,Pontiac,Streamwood,United States,Valid
+228,Gene Friend,Hagerstown,United States,Valid
+295,Bartol,Buena Park,United States,Valid
+388,First,Upland,United States,Valid
+1200,Yorba,Zanesville,United States,Valid
+369,Perego,Norfolk,United States,Valid
+165,Hayes,St. Matthews,United States,Valid
+107,Davenport,Yucca Valley,United States,Valid
+862,Santa Rosa,,United States,City Missing - Review Required
+471,Kinzey,Sikeston,United States,Valid
+384,Mount,St. Charles,United States,Valid
+931,Norwich,Shelton,United States,Valid
+1058,Jack Kerouac,O'Fallon,United States,Valid
+1040,Church Parking Lot,Germantown,United States,Valid
+1079,Northwood,Apache Junction,United States,Valid
+468,Loraine,Durham,United States,Valid
+987,Edgewood,Laconia,United States,Valid
+879,Minnesota,Pompano Beach,United States,Valid
+376,Sharon,Dunedin,United States,Valid
+93,Troy,Rockwall,United States,Valid
+984,Mccoppin,D Pere,United States,Valid
+650,Garden,Woodbury,United States,Valid
+941,Front,Hawthorne,United States,Valid
+254,Cyril Magnin,Roswell,United States,Valid
+762,Leroy,Schenectady,United States,Valid
+1073,Pope,Balch Springs,United States,Valid
+759,Fallon,Wauwatosa,United States,Valid
+280,West Clay,Pleasant Prairie,,Country Missing - Review Required
+1088,Argonaut,Portland,United States,Valid
+603,Quarry,South Pasadena,United States,Valid
+974,Rossmoor,White Plains,United States,Valid
+11,Bertie Minor,Omaha,United States,Valid
+536,Beeman,Hinsdale,United States,Valid
+493,Gibbon,Goshen,United States,Valid
+631,Flint,Kyle,United States,Valid
+286,Attridge,Hendersonville,United States,Valid
+238,York,Bossier City,United States,Valid
+1161,Carver,Urbandale,United States,Valid
+458,Friendship,Waynesboro,United States,Valid
+447,Julia,Raleigh,United States,Valid
+301,Vista Verde,Simi Valley,United States,Valid
+489,Admiral,Grapevine,Unitd States,Valid
+1164,Oak Grove,Peabody,United States,Valid
+768,Gladstone,Streamwood,United States,Valid
+820,Daggett,Lincoln,United States,Valid
+1042,Wisser,Portsmouth,United States,Valid
+960,Trumbull,Ceres,United States,Valid
+216,Walkway,La Habra,United States,Valid
+756,Diaz,Coral Gables,United States,Valid
+194,London,Westminster,United States,Valid
+1136,Westbrook,Birmingham,United States,Valid
+426,Flora,West Valley City,United States,Valid
+1128,Decatur,West Lafayette,United States,Valid
+53,Otis,Lenexa,United States,Valid
+323,Trumbull,Williamsport,United States,Valid
+660,Jakey,Paris,United States,Valid
+267,Idora,Oxford,United States,Valid
+529,Letterman,North Olmsted,United States,Valid
+185,Pennington,Champlin,United States,Valid
+858,Glover,Torrance,United States,Valid
+250,Holyoke,Mountlake Terrace,United States,Valid
+103,Farnum,Peabody,United States,Valid
+838,Merritt,Paradise,United States,Valid
+823,Park Hill,Berwya,United States,Valid
+774,Edgemont,Leawood,United States,Valid
+690,Woolsey,Fort Lauderdale,United States,Valid
+158,Dixie,Glen Ellyn,United States,Valid
+803,Prentiss,Great Falls,United States,Valid
+1004,Exposition,Bay City,United States,Valid
+633,Forest Hill,Clifton,United States,Valid
+368,Mahan,Bountiful,United States,Valid
+378,West Crystal Cove,Homewood,United States,Valid
+1160,Finley,Knoxville,United States,Valid
+98,Cook,Auburn Hills,United States,Valid
+448,Jersey,Pembroke Pines,United States,Valid
+179,Clarion,Wilsonville,United States,Valid
+978,Fremont,East St. Louis,United States,Valid
+1048,Hemdale,Santa Monica,United States,Valid
+1138,Custer,Ridgecrest,United States,Valid
+210,Allston,Ada,United States,Valid
+824,Bonifacio,Eagan,United States,Valid
+1086,Cottage,Westminster,United States,Valid
+696,Graystone,St. Matthews,United States,Valid
+1116,Cardenas,Elmhurst,United States,Valid
+994,Paradise,Harrisburg,United States,Valid
+555,Water,Alamo,United States,Valid
+477,Sheldon,Corona,United States,Valid
+790,Seal Rock,Boise City,United States,Valid
+484,Santa Clara,Bourbonnais,United States,Valid
+1046,Park Hill,Round Rock,United States,Valid
+420,Mercury,Tallahassee,United States,Valid
+958,Coventry,Saco,United States,Valid
+1001,Pioche,Frankfort,United States,Valid
+172,Genoa,Huntsville,United States,Valid
+74,Hollister,Lake Worth,United States,Valid
+900,Transverse,Gretna,United States,Valid
+949,Arguello,Chester,United States,Valid
+170,Verdi,Federal Way,United States,Valid
+169,Josepha,Hanover Park,United States,Valid
+253,Leona,Fair Lawn,United States,Valid
+773,Mclaren,Altus,United States,Valid
+371,Saul,Willmar,United States,Valid
+275,Coldspring,South El Monte,United States,Valid
+594,West Portal,Cathedral City,United States,Valid
+548,Ord,Elkhart,United States,Valid
+658,Scott,Porterville,United States,Valid
+1014,Humboldt,Royal Palm Beach,United States,Valid
+138,Clement,Baldwin Park,United States,Valid
+521,Espanola,Pearl,United States,Valid
+1118,Columbus,,United States,City Missing - Review Required
+822,Bitting,San Pablo,United States,Valid
+382,Santa Ynez,Atwater,United States,Valid
+740,Arch,Sayreville,United States,Valid
+1163,San Ramon,Rogers,United States,Valid
+516,Felix,Ada,United States,Valid
+815,San Pablo,Romulus,United States,Valid
+431,Bradford,Richland,United States,Valid
+1054,Old Mason,Gardena,United States,Valid
+174,Toledo,Jeffersontown,United States,Valid
+1196,Larch,Walnut,United States,Valid
+534,Columbia Square,Titusville,United States,Valid
+373,Hill,Tallmadge,United States,Valid
+691,Sfgh Access,Petaluma,United States,Valid
+344,Tingley,Friendswood,United States,Valid
+510,Otis,Moore,United States,Valid
+1084,Wedemeyer,Shively,United States,Valid
+37,Hermann,Atwater,United States,Valid
+816,Fredson,Northbrook,United States,Valid
+812,Cosgrove,Forest Park,United States,Valid
+201,Earl,Hamilton,United States,Valid
+1177,Santos,Charleston,United Staes,Valid
+1087,Lucerne,Oak Forest,United States,Valid
+109,Cargo,Mineral Wells,United States,Valid
+306,Escolta,Dixon,United States,Valid
+1210,Wills,Wausau,,Country Missing - Review Required
+850,Franklin,Newnan,United States,Valid
+767,Bessie,Tucson,United States,Valid
+606,Ellis,Portage,United States,Valid
+679,Oak Hills,Altamonte Springs,United States,Valid
+716,Roach,Bolingbrook,United States,Valid
+311,Prescott,Augusta,United States,Valid
+198,Pasadena,Grand Island,United States,Valid
+1171,Ruth,Gafanna,United States,Valid
+1191,Poppy,Leawood,United States,Valid
+821,Hardie,Sierra Vista,United States,Valid
+1184,Montana,Altus,United States,Valid
+226,Torrens,Edgewater,United States,Valid
+271,Alert,Seaside,United States,Valid
+202,Arkansas,Stafford,United States,Valid
+421,Onondaga,Norwich,United States,Valid
+483,Bocana,Saco,United States,Valid
+1009,Townsend,Madera,United States,Valid
+977,High,Loveland,United States,Valid
+1047,Parkhurst,Bayonne,,Country Missing - Review Required
+500,Tiffany,,United States,City Missing - Review Required
+670,Sixth,Kearny,United States,Valid
+721,Tocoloma,NoVlesville,United States,Valid
+527,Locksley,Phoenix,United States,Valid
+501,Clay,St. Petersburg,United States,Valid
+269,Hahn,Shakopee,United States,Valid
+50,Lathrop,Forest Lake,United States,Valid
+897,Balance,Kent,United States,Valid
+223,Transverse,Methuen,United States,Valid
+1172,Giants,Palos Hills,United States,Valid
+831,Devonshire,Hialeah Gardens,United States,Valid
+789,Margaret,Pacifica,United States,Valid
+590,Converse,Hackensack,United States,Valid
+656,Newburg,Surprise,United States,Valid
+76,Melra,Ketering,United States,Valid
+786,Raleigh,Oakland Park,United States,Valid
+932,Murray,Newark,United States,Valid
+964,Recycle,Rahway,United States,Valid
+981,Edgemont,Sebastian,United States,Valid
+912,Allen,Villa Park,United States,Valid
+503,,Port Huron,United States,Street Missing - Review Required
+711,Sotelo,La Vergne,United States,Valid
+1176,Edgewood,Hampton,United States,Valid
+1197,James,Chicago Heights,United States,Valid
+575,Hopkins,Fremont,UnitedcStates,Valid
+709,Valmar,Romeoville,United States,Valid
+427,Bay,Roanoke,United States,Valid
+1170,Pulaski,Bayonne,United States,Valid
+176,Fair Oaks,Loveland,United States,Valid
+193,Cedar,Selma,United States,Valid
+1023,Jason,La Quinta,United States,Valid
+840,Aladdin,Pflugerville,United States,Valid
+463,Cabrillo,New London,United States,Valid
+839,Medical Center,Alhambra,United States,Valid
+66,Cumberland,Lakeland,United States,Valid
+164,Goldberg,Opelika,United States,Valid
+718,Amatury,Clarksdale,United States,Valid
+117,Sears,Apopka,United States,Valid
+424,Hyde,DeKalb,,Country Missing - Review Required
+806,Lauren,Moline,United States,Valid
+78,Park Presidio,Little Elm,United States,Valid
+246,Michigan,Edina,United States,Valid
+428,Nichols,Mequon,United States,Valid
+319,Elliot,Tallmadge,United States,Valid
+1037,Mirabel,San Bernardino,United States,Valid
+154,Longview,Parma Heights,United States,Valid
+625,Santa Monica,Appleton,United States,Valid
+599,Valencia,Forest Lake,United States,Valid
+187,Chesley,Pine Bluff,United States,Valid
+393,Burgoyne,Davenport,United States,Valid
+1106,Long,Rowlett,United States,Valid
+197,Fairmount,Chelsea,United States,Valid
+1019,Lyon,Rahway,United States,Valid
+732,Silver,Nixa,United States,Valid
+742,Fort Mason,Louisville,United States,Valid
+397,Carver,Coronado,United States,Valid
+1035,Graham,Sandy Springs,United States,Valid
+41,Kobbe,Grand Island,United States,Valid
+1006,Jack Balestreri,Muscatine,United States,Valid
+54,Homer,Manassas,United States,Valid
+689,Acacia,Yorkville,United States,Valid
+422,Weldon,Lincoln Park,United States,Valid
+509,Peninsula,Charlotte,United States,Valid
+104,Beeman,Twentynine Palms,United States,Valid
+828,Felton,Renton,United States,Valid
+563,Uranus,Gilroy,United States,Valid
+140,Lisbon,Scottsdale,United States,Valid
+867,Hooper,Alice,United States,Valid
+309,Westgate,Eastlake,United States,Valid
+615,Seymour,Waukegan,United States,Valid
+450,Hooker,Montgomery,United States,Valid
+1183,Midway,Olathe,United States,Valid
+640,Grijalva,Prescott,United States,Valid
+512,Lawton,Winter Springs,United States,Valid
+1066,Capitol,Delray Beach,United States,Valid
+451,Hare,Benbrook,United States,Valid
+937,Fredela,San Leandro,United States,Valid
+496,Peabody,Bryan,United States,Valid
+542,Genebern,,United States,City Missing - Review Required
+657,Cayuga,Fullerton,United States,Valid
+535,Sacramento,Williamsport,United States,Valid
+113,Thomas,Inglewood,United States,Valid
+490,Colonial,Massapequa Park,United States,Valid
+270,Blairwood,Delaware,United States,Valid
+632,Hansen,Neenah,United States,Valid
+190,Van Keuren,McMinnville,United States,Valid
+367,Junipero Serra,Sherwood,United States,Valid
+240,Kittredge,Conway,United States,Valid
+624,Waithman,Kent,United States,Valid
+335,Seminole,Revere,United States,Valid
+224,Woodside,Bettendorf,United States,Valid
+1081,Revere,Hercules,United States,Valid
+871,Lauren,Freeport,United States,Valid
+1105,Balceta,Dana Point,United States,Valid
+392,Acadia,Weslaco,United States,Valid
+1140,Danvers,Batavia,United States,Valid
+17,Rivas,Waltham,United States,Valid
+887,Eaton,Ponca City,United States,Valid
+989,Short,,United States,City Missing - Review Required
+60,Jersey,Dana Point,United States,Valid
+876,Eastwood,Fairview Heights,United States,Valid
+849,Minna,Ocoee,United States,Valid
+409,Crestlake,South Lake Tahoe,United States,Valid
+429,Brazil,Salem,United States,Valid
+628,Exposition,Reedley,United States,Valid
+312,Tulane,Bonita Springs,United States,Valid
+684,Nebraska,Ocoee,United States,Valid
+544,Diamond Cove,Berwyn,United States,Valid
+1147,Redfield,Rock Island,United States,Valid
+1024,Trainor,Greer,United States,Valid
+569,Bengal,Coralville,United States,Valid
+1078,Peek,Lumberton,United States,Valid
+80,Rhine,,United States,City Missing - Review Required
+776,Shakespeare,Round Lake,United States,Valid
+5,Liggett,Ballwin,United States,Valid
+819,Keith,Alvin,United States,Valid
+139,Raleigh,West Chester,United States,Valid
+413,Bernal Heights,Laconia,United States,Valid
+1125,Wyman,Brandon,United States,Valid
+266,Greely,Montclair,United States,Valid
+38,Gatun,Bowie,United States,Valid
+285,Via Bufano,Reno,United States,Valid
+966,Ashton,Windsor,United States,Valid
+788,Dogwood,Carlisle,United States,Valid
+1195,Cornwall,Thomasville,United States,Valid
+245,Underwood,Duncanville,United States,Valid
+799,Raccoon,Santa Ana,United States,Valid
+251,Pollard,Ashwaubenon,United States,Valid
+588,Cole,Bonney Lake,United States,Valid
+662,Velasco,White Plains,United States,Valid
+1095,Valley,Nashville,United States,Valid
+1124,Amethyst,Oro Valley,United States,Valid
+1157,Stone,Leawood,United States,Valid
+354,Sproule,Smyrna,United States,Valid
+891,Myrtle,Richfield,United States,Valid
+387,Clover,Savage,United States,Valid
+983,Chula,Elmira,United States,Valid
+551,San Antonio,Camas,United States,Valid
+1109,Delgado,North Chicago,United States,Valid
+795,Mcallister,Beaverton,United States,Valid
+1146,Brussels,Grand Island,United States,Valid
+673,Clyde,San Marcos,United States,Valid
+402,Wyman,Kissimmee,United States,Valid
+976,Rutland,Wisconsin Rapids,United States,Valid
+180,Ventura,Westmont,United States,Valid
+681,Ccsf Parking Lot,Dixon,United States,Valid
+550,Brown,Pampa,United States,Valid
+2,Lusk,Rogers,United States,Valid
+985,Avila,Converse,United States,Valid
+868,Rotteck,Bldwin,United State,Valid
+567,Antonio,Henderson,United States,Valid
+353,Yerba Buena,Livonia,,Country Missing - Review Required
+262,Ninth,San Benito,United States,Valid
+1036,Retiro,Olive Branch,United States,Valid
+607,Pomona,Memphis,United States,Valid
+589,Walker,Schertz,United States,Valid
+328,Don Chee,Sparks,United States,Valid
+532,Verna,Fort Smith,United States,Valid
+645,Weatherly,Novi,United States,Valid
+968,Lilian,Temecula,United States,Valid
+665,Broadway,Leander,United States,Valid
+811,Santiago,Bartlett,United States,Valid
+573,Valerton,Duluth,United States,Valid
+3,Walker,Weatherford,United States,Valid
+692,Battery Caulfield,Lawrenceville,United States,Valid
+1101,Bitting,Lodi,,Country Missing - Review Required
+667,Carmel,Oakley,United States,Valid
+883,Morningside,Geneva,United States,Valid
+343,Fella,Tigard,United States,Valid
+611,Warner,Dothan,United States,Valid
+191,Spring,Troy,United States,Valid
+597,Brentwood,Jonesboro,United StXtes,Valid
+733,Chilton,Ferndale,United States,Valid
+494,Wisconsin,Lakeland,United States,Valid
+357,North Point,Scarsdale,United States,Valid
+1050,Jackson,Broomfield,United States,Valid
+668,Brunswick,Steubenville,United States,Valid
+700,Newcomb,Oak Lawn,United States,Valid
+132,Lundeen,Altus,United States,Valid
+554,Wills,Buckeye,United States,Valid
+1096,Clara,Rapid City,United States,Valid
+929,Plymouth,,United States,City Missing - Review Required
+472,Stone,Marshfield,United States,Valid
+136,Jamestown,Park Forest,United States,Valid
+252,Monument,Mount Pleasant,United States,Valid
+1002,Russell,West Fargo,United States,Valid
+802,Storey,Lino Laks,United States,Valid
+771,Westgate,Massillon,United States,Valid
+1022,Morse,Laconia,United States,Valid
+433,,Glen Cove,United States,Street Missing - Review Required
+412,Gene Friend,Allentown,United States,Valid
+13,Greenwich,Utica,United States,Valid
+511,Dore,Soledad,United States,Valid
+910,Mark Twain,Shaker Heights,United States,Valid
+685,Terrace,Auburn Hills,United States,Valid
+1098,Case,Upper Arlington,United States,Valid
+630,Antonio,Midlothian,United States,Valid
+1012,Upper Servce,Jeffersonville,United States,Valid
+729,Via Bufano,Casa Grande,United States,Valid
+42,Marina Green,South Elgin,United States,Valid
+1201,Dock,Pomona,United States,Valid
+7,Verdi,Greenfield,United States,Valid
+944,Gates,Asheboro,United States,Valid
+817,Liggett,Douglasville,United States,Valid
+558,Alvord,Hollister,United States,Valid
+515,Arballo,Pleasantville,United States,Valid
+1068,Miguel,Avon,United States,Valid
+886,Coso,Maryland Heights,United States,Valid
+331,Fallon,Bothell,United States,Valid
+1056,Lucerne,St. Paul,United States,Valid
+829,Kiska,Simi Valley,United States,Valid
+259,Touchard,New Philadelphia,Unitd States,Valid
+167,Federal,North Tonawanda,United States,Valid
+629,Worcester,Lino Lakes,United States,Valid
+303,Harkness,Tupelo,United States,Valid
+19,Armory,West Chicago,United States,Valid
+1107,Hampshire,Gastonia,United States,Valid
+809,Prescott,Grand Island,United States,Valid
+980,Medau,Arryo Grande,United States,Valid
+507,Haight,Los Banos,United States,Valid
+574,Pollock,Goldsboro,United States,Valid
+988,Alpha,Ashland,United States,Valid
+787,Liberty,Arvada,United States,Valid
+1190,East,Tinley Park,United States,Valid
+237,Ozbourn,Warwick,United States,Valid
+1156,Page,Roselle,United States,Valid
+482,Merlin,South Euclid,United States,Valid
+1188,Hugo,West Chester,United States,Valid
+233,Pontiac,Alice,United States,Valid
+777,West Portal,Washington,United States,Valid
+890,Sibley,Chicopee,United States,Valid
+137,Pope,Mountlake Terrace,United States,Valid
+798,Pilgrim,Hemet,United States,Valid
+561,Marshall,Maywood,,Country Missing - Review Required
+119,Howth,Ottawa,United States,Valid
+288,Missouri,Bell Gardens,United States,Valid
+618,Church Parking Lot,Duarte,United States,Valid
+605,Jordan,Trotwood,United States,Valid
+1020,Turk Murphy,South Bend,United States,Valid
+261,Shipley,Asheboro,United States,Valid
+793,Commer,Muskegon,United States,Valid
+592,Harry,Simi Valley,United States,Valid
+363,Parker,Mill Creek,United States,Valid
+321,Bronte,Grapevine,United States,Valid
+922,Nancy Pelosi,Vacaville,United States,Valid
+476,Guy,Lakeland,United States,Valid
+24,Panorama,Rapid City,United States,Valid
+1180,Telegraph Hill,Rohnert Park,United States,Valid
+676,Woodland,New Brunswick,United States,Valid
+522,Seward,Ormond Beach,United States,Valid
+904,Juri,Haltom City,United States,Valid
+1174,,Little Elm,United States,Street Missing - Review Required
+578,Owen,Morton Grove,United States,Valid
+492,Filbert,Buckeye,United States,Valid
+1111,Barnard,Richland,United States,Valid
+115,Head,Hazelwood,United States,Valid
+579,Security Pacific,Somerville,United States,Valid
+465,Hunters Point,Laconia,United States,Valid
+1122,Kimball,Mason,United States,Valid
+1142,Bay View,Moline,United States,Valid
+523,Boyd,Bellflower,United States,Valid
+1055,Crestlake,Turlock,United States,Valid
+1038,Clearfield,Murfreesboro,United States,Valid
+1091,Detroit,Hamtramck,United States,Valid
+934,Calhoun,Howard,United States,Valid
+666,Parnassus,Cartersville,United States,Valid
+800,,Montclair,United States,Street Missing - Review Required
+491,Forest Knolls,Kinston,United States,Valid
+1027,Leo,West Bend,United States,Valid
+443,Stanley,Hemet,United States,Valid
+864,Arballo,Golden Valley,United States,Valid
+609,Lessing,,United States,City Missing - Review Required
+108,El Polin,Maywood,United States,Valid
+84,Mansell,,United States,City Missing - Review Required
+570,Treat,Roanoke,United States,Valid
+236,Webb,New Orleans,United States,Valid
+9,Zircon,Bowling Green,United States,Valid
+1033,Icehouse,Elk Grove Village,United States,Valid
+425,Vidal,Slidell,United States,Valid
+1043,Yosemite,Hallandale Beach,United States,Valid
+892,Sloat,Corcoran,United States,Valid
+975,Anson,Oak Lawn,United States,Valid
+1070,,Cortland,United States,Street Missing - Review Required
+744,Cunningham,Farmers Branch,United States,Valid
+955,Lake Merced,Oxnard,United States,Valid
+1030,Marlin,Mankato,United States,Valid
+440,Blair,Reading,United States,Valid
+873,Salinas,East Point,United States,Valid
+141,Crook,Rocky Mount,United States,Valid
+925,Dove,Rosenberg,United States,Valid
+235,Behr,Round Lake,United States,Valid
+1071,Fredela,Glen Cove,United States,Valid
+290,Nadell,Montrose,United States,Valid
+462,Mark,Sumter,United States,Valid
+577,Lincoln,Flint,United States,Valid
+722,Olney,Torrance,United States,Valid
+923,Vista Verde,Yonkers,United States,Valid
+1198,Britton,Wooster,United States,Valid
+530,Le Conte,Wisconsin Rapids,United States,Valid
+715,Ventura,Plainview,United States,Valid
+526,Lundys,Simpsonville,United States,Valid
+651,Kimball,Johnson City,United States,Valid
+277,Hawes,La Verne,United States,Valid
+843,Gethe,New Albany,United States,Valid
+381,Sunset,Trussville,United States,Valid
+851,Nueva,Kentwood,United States,Valid
+921,Lake Forest,San Marcos,United States,Valid
+580,Palace Of Fine Arts,Kennesaw,United States,Valid
+183,Rickard,Oak Forest,United States,Valid
+587,Perry,Painesville,United States,Valid
+979,Collins,Queen Creek,United States,Valid
+324,Mcdowell,Livermore,United States,Valid
+595,Koret,Grapevine,United States,Valid
+622,Arch,Hercules,United States,Valid
+386,Niagara,Kaysville,United States,Valid
+1143,Boyd,Biddeford,United States,Valid
+855,Rosemary,Lake Charles,United States,Valid
+334,,Irving,Unitd States,Street Missing - Review Required
+263,Greenview,Los Gatos,United States,Valid
+726,Oakhurst,Mint Hill,United States,Valid
+837,Gateview 2,Starkville,United States,Valid
+743,Stonecrest,Edmond,United States,Valid
+396,Kissling,San Luis,United0States,Valid
+204,Trenton,Carrollton,United States,Valid
+444,Harry,New Hope,United States,Valid
+791,Trader Vic,Deerfield Beach,United States,Valid
+1202,Hauser,Lawton,United States,Valid
+734,Mcallister,Ponca City,United States,Valid
+836,cience,Parkland,United States,Valid
+372,Bitting,Weston,,Country Missing - Review Required
+177,Ney,Altamonte Springs,United States,Valid
+150,Christopher,Encinitas,United States,Valid
+896,El Camino Del Mar,Salinas,,Country Missing - Review Required
+519,Dedman,Biloxi,United States,Valid
+212,Peru,Farmers Branch,United States,Valid
+1152,Gonzalez,St. George,United States,Valid
+1185,Scenic,Chattanooga,United States,Valid
+745,Saint Germain,Chula Vista,United States,Valid
+461,Eutaw,Alexandria,United States,Valid
+1044,Argent,Citrus Heights,United States,Valid
+188,Crespi,Novi,United States,Valid
+184,Lobos,Indio,United States,Valid
+946,Neada,Shakopee,United States,Valid
+410,Severn,Crystal,United States,Valid
+390,Lloyd,Opelika,United States,Valid
+348,Koret,North Ridgeville,United States,Valid
+604,Winter,Westmont,United States,Valid
+1003,Holland,Watertown,United States,Valid
+146,Crisp,Ridgecrest,,Country Missing - Review Required
+875,Trumbull,Brentwood,United States,Valid
+973,Avenue N,Camarillo,United States,Valid
+294,Bartol,Lindenwold,United States,Valid
+582,,Laurel,United States,Street Missing - Review Required
+155,Imperial,Laguna Woods,United States,Valid
+51,Bennington,Taylorsville,United States,Valid
+553,Battery Crosby,Chino,United States,Valid
+175,Hicks,Ventura,United States,Valid
+446,Alemany,Irving,United States,Valid
+613,Imperial,Kirkland,United States,Valid
+833,Columbia Square,Santa Fe Springs,United States,Valid
+728,Theresa,McMinnville,United States,Valid
+705,Conservatory Access,Burleson,United States,Valid
+127,Forest Hill,Redlands,United States,Valid
+1182,Battery Caulfield,Fremont,United States,Valid
+514,San Jacinto,Glendale Heights,United States,Valid
+1130,San Buenaventura,La Mirada,United States,Valid
+454,Plaza,Downers Grove,United States,Valid
+591,Dearborn,Mount Prospect,United States,Valid
+1057,Ringold,Fort Lee,United States,Valid
+659,Huron,Newport,United States,Valid
+1051,,Greenville,United States,Street Missing - Review Required
+208,Leo,Hobbs,Pnited States,Valid
+56,Napoleon,Winter Garden,United States,Valid
+362,Starview,Manhattan,United States,Valid
+1112,Palo Alto,Trussville,United States,Valid
+736,Olive,Hanover Park,United States,Valid
+1194,Cabrillo,Hannibal,United States,Valid
+1052,Crystal,Piqua,United States,Valid
+911,Lily,Warner Robins,United States,Valid
+936,Diamond Heights,West Des Moines,United States,Valid
+586,Prague,Milwaukie,United States,Valid
+559,Rousseau,Port Huron,United States,Valid
+207,Double Rock,Lenexa,United States,Valid
+646,Flood,Avon Lake,United States,Valid
